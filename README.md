@@ -63,6 +63,12 @@ Developed a Power BI dashboard as the single source of truth for project monitor
 
 ---
 
+## Dashboard
+
+<img src='./dashboard images/Executive Dashboard.png' width=1200>
+
+---
+
 ## Project Workflow
 
 ```text
