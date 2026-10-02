@@ -63,9 +63,17 @@ Developed a Power BI dashboard as the single source of truth for project monitor
 
 ---
 
-## Dashboard
+## Executive Dashboard
 
 <img src='./dashboard images/Executive Dashboard.png' width=1200>
+
+**Key takeaways:**
+
+* Sampling progress reached 57% of the nationwide target.
+* Average revenue per event exceeded target, achieving 130% of KPI.
+* 87% of sampled stores placed at least one reorder after sampling, indicating strong product adoption.
+* Conversion rates were relatively low during the early weeks of the campaign but improved consistently from Week 20 onward across all regions.
+* The South region has the highest share of non-reordering stores (31%) and requires immediate attention.
 
 ---
 
@@ -111,18 +119,3 @@ Developed a Power BI dashboard as the single source of truth for project monitor
 - Power BI
 - Power Query (M-language)
 - Excel
-
----
-
-## 📁 Repository Structure
-
-```text
-├── data/
-│   ├── EcomSales.csv
-│   └── Product.csv
-│       └── Danh mục sản phẩm và thông tin phân loại
-├── Nationwide Sampling Dashboard.pbix
-│   └── Tiền xử lý dữ liệu, xây dựng mô hình Apriori và phân tích Association Rules
-└── README.md
-    └── Tổng quan dự án, kết quả phân tích và khuyến nghị kinh doanh
-```
