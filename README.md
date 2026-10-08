@@ -65,7 +65,7 @@ Developed a Power BI dashboard as the single source of truth for project monitor
 
 ## Executive Dashboard
 
-<img src='./dashboard images/ Executive Dashboard.png' width=1200>
+<img src='./dashboard images/Executive Dashboard.png' width=1200>
 
 **Key takeaways:**
 
