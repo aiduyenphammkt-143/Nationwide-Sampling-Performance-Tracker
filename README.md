@@ -65,12 +65,12 @@ Developed a Power BI dashboard as the single source of truth for project monitor
 
 ## Executive Dashboard
 
-<img src='./dashboard images/Executive Dashboard.png' width=1200>
+<img src='./dashboard images/ Executive Dashboard.png' width=1200>
 
 **Key takeaways:**
 
-* Sampling progress reached 57% of the nationwide target.
-* Average revenue per event exceeded target, achieving 130% of KPI.
+* Sampling progress reached 92% of the nationwide target.
+* Average revenue per event exceeded target, achieving 106% of KPI.
 * 87% of sampled stores placed at least one reorder after sampling, indicating strong product adoption.
 * Conversion rates were relatively low during the early weeks of the campaign but improved consistently from Week 20 onward across all regions.
 * The South region has the highest share of non-reordering stores (31%) and requires immediate attention.
